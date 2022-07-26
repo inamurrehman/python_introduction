@@ -1,2 +1,2 @@
-# python_introduction
-Introduction to python with examples
+# Python
+## A complete python course from basic with examples
